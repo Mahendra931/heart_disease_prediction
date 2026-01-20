@@ -21,7 +21,7 @@ The dataset contains medical and demographic features such as:
 - The model learns patterns from historical patient data to predict heart disease risk.
 - 
 ## 🚀 Live Application
-🔗 **Live Demo:** https://your-streamlit-app-link-here
+🔗 **Live Demo:** https://heartdiseaseprediction5.streamlit.app/
 
 ## 🛠 Tech Stack
 - Python
